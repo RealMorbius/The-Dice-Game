@@ -4,9 +4,11 @@ Welcome To The Dice Game.The Dice game made by
 @RealMorbius
 Just a Fun little project for school.
 ##Commands
+
 The Following System requires a standart yes or no as a answer when asked a question
 "y" Will not work 
 "n" Will not work
+
 ##FAQ
 Q:Why does the program instantly close?
 A: Try Downloading The ASSET files
